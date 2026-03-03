@@ -1,6 +1,16 @@
-# 99-Test-Project
+# 99-test-project -- EVA Factory Test Vehicle
 
-**Test vehicle for generalized EVA Factory scripts**
+**Purpose**: Test vehicle for EVA Factory script generalization and pattern validation  
+**Owner**: 07-foundation-layer (Workspace PM/Scrum Master)  
+**Status**: Active -- Testing ground for workspace-level patterns  
+**Last Updated**: March 3, 2026  
+**Related**: [07-foundation-layer](../07-foundation-layer) (template source), [51-ACA](../51-ACA) (pattern source)
+
+---
+
+## Overview
+
+**99-Test-Project is the Official Test Vehicle for EVA Factory Scripts** -- validates that generalized scripts from 07-foundation-layer work correctly before deployment to active projects.
 
 This project validates that:
 - `seed-from-plan.py` works for any project prefix (not just ACA)

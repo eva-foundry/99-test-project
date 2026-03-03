@@ -1,0 +1,32 @@
+# 99-test-project .gitignore
+# Created: 2026-03-03
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+
+# VS Code
+.vscode/settings.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Test outputs
+test-results/
+coverage/
+
+# Azure
+.azure/
